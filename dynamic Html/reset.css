@@ -1,0 +1,5 @@
+@font-face{
+    font-family:IRANSansFaNum;
+    src: url("./font/IRANSans.ttf") format(ttf),
+    url("./font/IRANSans\(FaNum\).ttf") format(ttf)
+}
